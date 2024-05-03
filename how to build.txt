@@ -1,0 +1,2 @@
+qmk setup -H /mnt/c/Users/matt/Dev/Keyboard/qmk_firmware
+qmk compile -kb mwgnz -km default
