@@ -1,3 +1,7 @@
 cd Dev/Keyboard/qmk_firmware/
 qmk setup
 qmk compile -kb mwgnz -km default
+
+
+qmk flash -kb mwgnz -km default -bl avrdude-split-left
+qmk flash -kb mwgnz -km default -bl avrdude-split-right
