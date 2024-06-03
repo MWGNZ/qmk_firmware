@@ -18,9 +18,9 @@
  *
  */
 #define MATRIX_ROW_PINS       { D1, D0, D4, C6, D7, E6, B4, B5 }
-#define MATRIX_ROW_PINS_RIGHT { B3, B2, B1, F7, B6, F4, F5, F6 }
+#define MATRIX_ROW_PINS_RIGHT { D1, D0, D4, C6, D7, E6, B4, B5 }
 #define MATRIX_COL_PINS       { F5, F6, F7, B1, B3, B2, B6, NO_PIN, NO_PIN }
-#define MATRIX_COL_PINS_RIGHT { D3, D1, D0, D4, C6, E6, D7, B5, B4 }
+#define MATRIX_COL_PINS_RIGHT { F4, F5, F6, F7, B1, B3, B2, B6,     D3 }
 
 #define EE_HANDS
 
