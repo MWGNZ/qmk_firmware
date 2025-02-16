@@ -34,7 +34,7 @@
 #define USE_SERIAL
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
-#define DEBOUNCE 15
+#define DEBOUNCE 10
 
 #define FORCE_NKRO
 

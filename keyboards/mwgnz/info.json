@@ -47,7 +47,7 @@
                 { "matrix": [3,  2], "label": "E", "x": 4, "y": 2  },
                 { "matrix": [4,  2], "label": "R", "x": 5, "y": 2  },
                 { "matrix": [5,  2], "label": "T", "x": 6, "y": 2  },
-                { "matrix": [6,  2], "label": "\\", "x": 7, "y": 2  },
+                { "matrix": [6,  2], "label": "<----", "x": 7, "y": 2  },
                 { "matrix": [7,  2], "label": "next","x": -3.0, "y": 4  },
                 { "matrix": [8,  2], "label": "y", "x": 12.25, "y": 2  },
                 { "matrix": [9,  2], "label": "u", "x": 13.25, "y": 2  },
