@@ -44,10 +44,10 @@
  */
 
 /* disable debug print */
-//#define NO_DEBUG
+#define NO_DEBUG
 
 /* disable print */
-//#define NO_PRINT
+#define NO_PRINT
 
 /* disable action features */
 #define NO_ACTION_LAYER
@@ -58,4 +58,4 @@
 #define BOOTMAGIC_LITE_ROW 0
 #define BOOTMAGIC_LITE_COLUMN 0
 #define BOOTMAGIC_LITE_ROW_RIGHT 0
-#define BOOTMAGIC_LITE_COLUMN_RIGHT 15
+#define BOOTMAGIC_LITE_COLUMN_RIGHT 7
