@@ -8,6 +8,11 @@
         "pid": "0xDEAD",
         "device_version": "1.0.0"
     },
+    "host": { 
+        "default": { 
+            "nkro": true
+        } 
+    },
     "development_board ": "promicro",
     "layouts": {
         "LAYOUT_default": {

@@ -7,6 +7,8 @@
 #define MATRIX_ROWS 16
 #define MATRIX_COLS 9
 
+#define LED_CAPS_LOCK_PIN D3
+
 /*
  * Keyboard Matrix Assignments
  *
@@ -36,8 +38,6 @@
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 10
 
-#define FORCE_NKRO
-
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
@@ -49,7 +49,9 @@
 #define NO_ACTION_ONESHOT
 
 /* Bootmagic Lite key configuration */
+// Escape Button
 #define BOOTMAGIC_LITE_ROW 0
 #define BOOTMAGIC_LITE_COLUMN 0
+// Printscreen Button
 #define BOOTMAGIC_LITE_ROW_RIGHT 8
 #define BOOTMAGIC_LITE_COLUMN_RIGHT 8
